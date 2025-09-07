@@ -1,0 +1,4 @@
+1;101;A;Daire
+2;FIT;A;Fitness
+3;POOL;A;Havuz
+4;102;A;Daire
